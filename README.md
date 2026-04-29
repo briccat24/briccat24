@@ -27,4 +27,4 @@ I'm a Systems Analysis student at Colegio Universitario IES and a Full Stack Dev
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 📈 Stats
-![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=briccat24&show_icons=true&theme=dark)
